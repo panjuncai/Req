@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T14:30:08.057Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="NUAfyceyPt-6uh4ajb8O" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-10T14:31:56.369Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="vB1jak1mMLlDhxmiM8RI" version="24.5.2" type="github">
   <diagram name="Page-1" id="HPQxDtcRFGuKZIN4-sWj">
     <mxGraphModel dx="2284" dy="671" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="Server side" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="-527" y="130" width="201" height="270" as="geometry" />
+        <mxCell id="2" value="Server side&#xa;(Servlet+Thymeleaf)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="-527" y="90" width="201" height="310" as="geometry" />
         </mxCell>
         <mxCell id="3" value="Service layer" style="rounded=1;absoluteArcSize=1;arcSize=14;whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-480" y="239" width="107" height="34" as="geometry" />
@@ -22,10 +22,10 @@
             <mxPoint x="-632" y="255.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7" value="Client side" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="-830" y="196" width="198" height="120" as="geometry" />
+        <mxCell id="7" value="Client side&#xa;(Html+Js+Bootstrap)&#xa;" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="-830" y="180" width="198" height="136" as="geometry" />
         </mxCell>
-        <mxCell id="9" value="View layer&#xa;(Html+Bootstrap)" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="9" value="View layer" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="-785.5" y="233.5" width="109" height="45" as="geometry" />
         </mxCell>
         <mxCell id="13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5029296875;exitY=1;entryX=0.49883177570093457;entryY=0;" parent="1" source="4" target="3" edge="1">
